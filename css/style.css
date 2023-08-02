@@ -8,6 +8,18 @@
   color:blue;
 }
 
+.nombre {
+  text-align: center;
+  color:blue;
+}
+
+.foto {
+  text-align: center;
+}
+
+.perfil {
+  width: 20%;
+}
 .tablaPrincipal {
   margin: auto;
   margin-top: 200px;
